@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true copy of the papers that were delivered by Mr. William Cress, and Edward Robinson, to the reverend Mr, Allen, ordinary; at their execution, on Friday the 22d. instant Decemb. 1699. The true copy of Mr. Cress's paper, as followesh [sic].</title>
+            <author>Cress, William.</author>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B20809</idno><idno type="EEBO-CITATION">99886923</idno>
+  <idno type="VID">189668</idno>
+  <idno type="EEBO-PROQUEST">2248537487</idno>
+  
+            <idno type="STC">Wing C6884</idno>
+            <idno type="STC">Interim Tract Supplement Guide 515.l.2[174]</idno>
+            <idno type="STC">ESTC R226780</idno>
+            <idno type="PROQUEST">ocm99886923</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886923e"/>
+            <note>(EEBO-TCP ; phase 2, no. B20809)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 189668)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C17:1[175])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true copy of the papers that were delivered by Mr. William Cress, and Edward Robinson, to the reverend Mr, Allen, ordinary; at their execution, on Friday the 22d. instant Decemb. 1699. The true copy of Mr. Cress's paper, as followesh [sic].</title>
+                  <author>Cress, William.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Jer. Wilkins, in White-[...],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1699?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: foot of page cropped, affecting imprint.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Executions and executioners --  England --  Early works to 1800.</term>
+               <term type="topical_term">Last words --  England --  Early works to 1800.</term>
+               <term type="topical_term">Murder --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="reproductions_of_documents">
+            <pb facs="tcp:189668:1"/>
+            <head>A TRUE COPY OF THE PAPERS That were Delivered by Mr. <hi>William Cress,</hi> and <hi>Edward Robinson,</hi> to the Reverend Mr, <hi>Allen,</hi> Ordinary; at their Exe<g ref="char:EOLhyphen"/>cution, on <hi>Friday</hi> the 22d. Instant <hi>Decemb.</hi> 1699.</head>
+            <div type="copy_of_document">
+               <head>The True Copy of Mr. <hi>Cress's</hi> Paper, as Followesh.</head>
+               <opener>
+                  <salute>Good People,</salute>
+               </opener>
+               <p>I AM Come here to Suffer an Ignominous Death, which <gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nce as little Dreamt of, as any here present do this Day. It is but sit that I should give you some Account of me, and of this Fact for which I Suffer, before I go hence and be no more seen. I was Born in <hi>Froome</hi> in <hi>Sommersetshire</hi> of a good honest Fami<g ref="char:EOLhyphen"/>ly; there I lived till 5 Years Old, then my Father Died, and my Mother Re<g ref="char:EOLhyphen"/>mov'd to the <hi>Bath,</hi> where I remain'd till I arrived to 16 Years: At which time the King coming in, and raising Forces for <hi>Irland,</hi> I resolved to try my Fortune in a Military Life; being a Soldier under Sr. <hi>John Edgworth,</hi> for one Year I continued so, and then I Serv'd in Sr. <hi>Halbert Cunninghams</hi> Regiment of Dragoons for three quar<g ref="char:EOLhyphen"/>ters of a Year, when for a Signal Piece of Service done in the Field, my Collonel gave me a Quarter-masters Commission and in the space of one Year, I was honour'd with that of a <hi>Cornet</hi> in the same Regiment; And so remain'd till <hi>June</hi> 97. And then sold my Commission, and came to my Friends in the <hi>Bath;</hi> where I stayed till <hi>June</hi> last, when Unfortunutely I came here to lose my Life by an Untimely End, for a Murther Committed on a Woman, who went by the Name of <hi>Rose Robinson,</hi> whom I now own to be my Wife, being Married to her at <hi>Molingar</hi> in <hi>Irland,</hi> as I have acquainted the Reverend Mr. <hi>Ordinary;</hi> which Murther was committed after this manner: I went to see her, accompanied with my Brother, now fellow Sufferer: Having Drunk hard that Day I called for a Pot of small Beer, and sat down, but quickly fell a Sleep; but before that, I heard the Deceas'd ask <hi>Robinson</hi> for Money. I had not Slept long till I was awakened by a noise, and then found him depressing the Woman to the Floor with his Hand on her Throat, and his Knee on her Belly; I askt him what was the matter; And he told me she was in a Fitt, I never saw her stir after that, only one Foot as she Died: I layed no Hand upon her, with a design to Kill her, only helpt to pull off her cloaths, and put her to Bed. This is the cause of my miserable Downfal, in Concealing the Murther and assisting him after it was Acted; so I conclude, and wish all the World to take Warning by me, and shun evil Company, lest it shou'd bring them to such Shame and Misery, which I by my wretched Folly have now Just<g ref="char:EOLhyphen"/>ly Incurr'd.</p>
+               <closer>
+                  <dateline>
+                     <date>
+                        <hi>December,</hi> 22d. 1699.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="copy_of_document">
+               <pb facs="tcp:189668:2"/>
+               <pb facs="tcp:189668:2"/>
+               <head>The True Copy of <hi>Edward Robinson</hi>'s Paper.</head>
+               <p>WOrthy Gentlemen, and all you who are Spectators of this my miserable Down<g ref="char:EOLhyphen"/>fall, which hath happened by my keeping of Evil Company, I desire you for God's sake, and for my sake, who now suffer for it, avoid and fly from it. My Sins are many and great, but I hope God will of his infinite mercy pardon them. As for this Crime, for which I die, I cannot say that I am innocent and guiltless, because I so long concealed this horrid and execrable Murther, which I did at the Perswasion of my Brother, my now Fellow-sufferer, who indeed did commit it. The Deceased had two Children by him, for they lived as Man and Wife; Words arising between them, they seem'd to be reconciled, and lay down on the Bed, drawing the Curtains, so that I could not have any suspicion of an ill Intent; soon after I heard the Wo<g ref="char:EOLhyphen"/>man cry, but I took no notice of it, neither did I know that she was Murthered, till he told me: I conceal'd his Crime, for which I am now sorry. I do heartily repent of my Ill Doings: I desire the Prayers of all good People, and desire you all to take heed of Bad Company. So recommending my Soul into the Hands of my God, I die the Unfortunate.</p>
+               <closer>
+                  <signed>Edward Robinson.</signed>
+               </closer>
+            </div>
+            <div type="commentary">
+               <p>These two Speeches, so different about the Executioner of that Barbarous Murther, were read to them publickly, each asserting his Paper to be the truest Account; va<g ref="char:EOLhyphen"/>rious and pressing Arguments were used to perswade them to agree in one Relation, but they were ineffectual. For notwithstanding what was said to them, they conti<g ref="char:EOLhyphen"/>nued jarring and clashing with one another, till the Cart almost drew away: Nay, even then, for a <gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nute or more, Mr. <hi>Cress,</hi> by way of abhorrence of what the other said, made <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Motions with his Trembling Hands towards him.</p>
+               <closer>
+                  <dateline>
+                     <hi>Dated</hi>
+                     <date>the 22d <hi>of</hi> De<g ref="char:EOLhyphen"/>cember, 1699.</date>
+                  </dateline>
+                  <signed>
+                     <hi>John Allen,</hi> Ordinary.</signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="advert">
+            <head>ADVERTISEMENTS.</head>
+            <p>JOHN WATTS <hi>(Operator in Teeth) lives at the Sign of the</hi> Hand <hi>and</hi> Mouth, <hi>and</hi> Kings-Arms, <hi>within Three Doors of</hi> Bride-Lane, Flett-street, <hi>he draws and cleans Natural-Teeth, (sets in Artificial ones so firm and exact, as to be eat on, and not discovered by any person whatever from Natural;) likewise sells a Powder to keep Na<g ref="char:EOLhyphen"/>tural Teeth White, Firm and Sound.</hi>
+            </p>
+         </div>
+         <div type="advert">
+            <head>At the farthest House on the Left Hand, in <hi>Clare-Court,</hi> over-against <hi>Russel-Court</hi> in <hi>Drury-Lane, Strand.</hi>
+            </head>
+            <p>GEntlemen and others may have an Interest made to invest them in Places suitable to their several Qualities and Capacities? We have now several considerable Places, in Town and Country to dispose off, most to be acted by Deputies: We have also several of a lesser value (<hi>viz.</hi> 80<hi>l.</hi> 70<hi>l.</hi> 60<hi>l.</hi> 50<hi>l.</hi> 40<hi>l.</hi> a Year Sallaries) for those that Write and Cast Ac<g ref="char:EOLhyphen"/>counts well: We also speedily and faithfully sollicite all sorts of Causes depending in the Courts of Law and equity, Treasury, Admiralty, Navy Offices. We Buy and Sell Houses Estates Ground Rents, &amp;c. all Persons who apply themselves to us, shall have no reason to suspect being impos'd upon, for our cheif Undertaker is a Gentleman of Quality, well known to many of the Principal Nobility and Gentry of this Kingdom. We think fit to inform the Publick <hi>that</hi> the Original of this Undertaking in <hi>England,</hi> was Mr. <hi>Alexander Collins</hi> De<g ref="char:EOLhyphen"/>ceas'd, who many Years succesfully manag'd it at St. <hi>James</hi>'s for the continuation of it, for the Publick good, the Person of Honour aforesaid has been pleas'd to imploy some near Re<g ref="char:EOLhyphen"/>lations of the said Mr. <hi>Collins</hi> who manag'd it for a considerable time before his Decease.</p>
+         </div>
+         <div type="colophon">
+            <p>LONDON Printed for <hi>Jer. Wilkins.</hi> i<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>White</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
